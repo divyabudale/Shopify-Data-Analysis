@@ -5,10 +5,10 @@ Objective : In this project, Shopify app store data from April 1,2013 to Septemb
 Motivation : The project was motivated with a personal agenda. With the world moving online, my brother in law wanted to move his shop online and asked me if there was an option. I had heard about shopify but did not know how it worked.  App reviews and App Description were main focus of the analysis.
 
 Data : There were 6 readily available dataset. Out of 6, 4 were used within this project.
-apps.csv - The file contains the information for different apps, developer details, app rating, review count and description
-apps_categories.csv - The files contains information for the categories of the app. There were 12 different categories identified
-categories.csv - This is the lookup file for the category code from the above
-reviews.csv - This file contains the review given for each app along within the rating 
+1. apps.csv - The file contains the information for different apps, developer details, app rating, review count and description
+2. apps_categories.csv - The files contains information for the categories of the app. There were 12 different categories identified
+3. categories.csv - This is the lookup file for the category code from the above
+4. reviews.csv - This file contains the review given for each app along within the rating 
 
 Analysis and Results : Teh following analysis was performed:
 1. Created a Pie Chart using plotly to show the category distribution. Among the 12 categories, 28.6% was classified as Store design, 17.8% as Sales and conversion  and 14.8% as Marketing. The average review count disctribution confirmed that the most used categories have been reviewed the highest. 
