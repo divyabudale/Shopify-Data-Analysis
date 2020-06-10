@@ -1,6 +1,6 @@
 # Shopify-Data-Analysis
 
-Objective : In this project, Shopify app store data from April 1,2013 to September 9, 2019 was used to identify patterns within app rating review and create clusters based on apps description using word embeddings
+Objective : In this project, Shopify app store data from April 1,2013 to September 9, 2019 was used to identify patterns within app rating review and create clusters based on apps description using word embedding
 
 Motivation : The project was motivated with a personal agenda. With the world moving online, my brother in law wanted to move his shop online and asked me if there was an option. I had heard about shopify but did not know how it worked.  App reviews and App Description were main focus of the analysis.
 
