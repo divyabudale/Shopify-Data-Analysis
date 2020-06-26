@@ -10,7 +10,7 @@ Data : There were 6 readily available dataset. Out of 6, 4 were used within this
 3. categories.csv - This is the lookup file for the category code from the above
 4. reviews.csv - This file contains the review given for each app along within the rating 
 
-Analysis and Results : Teh following analysis was performed:
+Analysis and Results : The following analysis was performed:
 1. Created a Pie Chart using plotly to show the category distribution. Among the 12 categories, 28.6% was classified as Store design, 17.8% as Sales and conversion  and 14.8% as Marketing. The average review count disctribution confirmed that the most used categories have been reviewed the highest. 
 2. Stacked chart was created to show the number of apps created by each developer along with average rating. It was discovered that some of the apps were never used at all.
 3. The ratings for the review left on the app was cleaned to to identify the commonly occuring word combination to describe the lowest rated reviews. It was discovered that the bad customer servive and faulty application were the main cause of the lowest rated app.
