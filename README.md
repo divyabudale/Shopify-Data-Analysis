@@ -13,6 +13,6 @@ Data : There were 6 readily available dataset. Out of 6, 4 were used within this
 Analysis and Results : The following analysis was performed:
 1. Created a Pie Chart using plotly to show the category distribution. Among the 12 categories, 28.6% was classified as Store design, 17.8% as Sales and conversion  and 14.8% as Marketing. The average review count disctribution confirmed that the most used categories have been reviewed the highest. 
 2. Stacked chart was created to show the number of apps created by each developer along with average rating. It was discovered that some of the apps were never used at all.
-3. The ratings for the review left on the app was cleaned to to identify the commonly occuring word combination to describe the lowest rated reviews. It was discovered that the bad customer servive and faulty application were the main cause of the lowest rated app.
+3. The ratings for the review left on the app was cleaned to to identify the commonly occuring word combination to describe the lowest rated reviews. It was discovered that the bad customer service and faulty application were the main cause of the lowest rated app.
 4. Finally, kmeans clustering was performed on the app description to identify app segmentation. word2vec algorithm was used to identify the relationship between words and embed them in lower dimensional vectory space. Using this, kmeans clustering was performed with the optimum cluster size = 3 and silhouette score of 0.336. Finally, word embedding visualization was created using T-SNE to display the similiar objects.
 
